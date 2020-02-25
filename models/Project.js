@@ -62,7 +62,7 @@ const mongoose = require('mongoose');
 
         }
     ],
-    gitrepo:{
+    githubrepo:{
         type: String
     }
    
